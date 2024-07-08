@@ -21,4 +21,4 @@ dependencies {
 ## How to use this project
 
 * please see [ppodgorsek/spring-test-dbunit](https://github.com/ppodgorsek/spring-test-dbunit)
- github: anyjava
+* github: anyjava
