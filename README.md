@@ -24,4 +24,3 @@ dependencies {
 
 ## Reference
    - github: anyjava
-   - https://techblog.woowahan.com/2650/
